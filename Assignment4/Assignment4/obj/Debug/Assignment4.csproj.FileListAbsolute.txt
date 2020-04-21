@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\admin\documents\visual studio 2015\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\admin\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\admin\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\admin\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\admin\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\admin\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\admin\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
